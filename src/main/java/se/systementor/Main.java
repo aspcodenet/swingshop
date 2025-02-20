@@ -3,7 +3,7 @@ package se.systementor;
 public class Main {
     public static void main(String[] args) {
 
-        CashRegister display = new CashRegister();
+        CashRegisterForm display = new CashRegisterForm();
         display.run();
     }
 }
